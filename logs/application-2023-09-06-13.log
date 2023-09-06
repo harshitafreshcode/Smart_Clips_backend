@@ -1,0 +1,4 @@
+{"level":"info","message":"/si"}
+{"level":"info","message":{}}
+{"level":"info","message":"/signup"}
+{"level":"info","message":{"authToken":"authToken1234567890","email":"test@gmail.com","firstName":"test","lastName":"demo","password":"Test@123","phone":"7878787878"}}
